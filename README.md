@@ -43,8 +43,12 @@ Key statistics were aggregated to compare "At-Risk" vs "Not-at-Risk" groups.
 Data visualisations were created using ggplot2 to illustrate:
 
 * CHD prevalence across genders.
+  
+  ![](step5_plot1.png)
 
 * The relationship between Systolic Blood Pressure and heart health.
+
+  ![](step5_plot2.png)
 
 * Age distribution of at-risk patients.
 
